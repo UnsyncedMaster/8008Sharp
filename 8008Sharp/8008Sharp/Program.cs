@@ -12,7 +12,6 @@ namespace _8008Sharp
             Console.WriteLine("8008Sharp");
             Console.WriteLine("Loading A Hardcoded Prog As A Proof Of Concept...");
 
-            // Example hardcoded program
             byte[] program = new byte[]
             {
                 0x3E, 0x05,  // MVI A, 05h (Load Immediate Value 0x05 Into Reg A)
