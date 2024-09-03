@@ -1,0 +1,14 @@
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.AssemblyInfo.cs
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\8008Sharp\8008Sharp\bin\Debug\net8.0\8008Sharp.exe
+C:\Users\super\source\repos\8008Sharp\8008Sharp\bin\Debug\net8.0\8008Sharp.deps.json
+C:\Users\super\source\repos\8008Sharp\8008Sharp\bin\Debug\net8.0\8008Sharp.runtimeconfig.json
+C:\Users\super\source\repos\8008Sharp\8008Sharp\bin\Debug\net8.0\8008Sharp.dll
+C:\Users\super\source\repos\8008Sharp\8008Sharp\bin\Debug\net8.0\8008Sharp.pdb
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.dll
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\refint\8008Sharp.dll
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.pdb
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\8008Sharp.genruntimeconfig.cache
+C:\Users\super\source\repos\8008Sharp\8008Sharp\obj\Debug\net8.0\ref\8008Sharp.dll
